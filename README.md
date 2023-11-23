@@ -1,6 +1,11 @@
 # Browser Media Stream
 
-ブラウザからマイクを起動、音声ファイルをダウンロードするデモアプリ
+ブラウザからマイクを起動、音声ファイルを OpenAI API に送信するデモアプリ
+
+
+https://github.com/Zudah228/browser_media_form_action_demo/assets/62398366/1db06967-8b70-4412-9b8f-ad4b6de916e1
+
+
 
 ## 参考にしたURL
 - https://developer.mozilla.org/ja/docs/Web/API/MediaDevices/getUserMedia
